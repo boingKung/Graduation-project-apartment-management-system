@@ -61,8 +61,8 @@
     php artisan serve
     #ระบบจะทำงานอยู่ที่ http://localhost:8000
 
-LinkedIn: [ใส่ลิงก์ LinkedIn ของคุณ]
+LinkedIn: www.linkedin.com/in/thanakorn-srisawat-52131539b
 
-Email: [boing100147@gmail.com]
+Email: boing100147@gmail.com
 
 โปรเจกต์นี้เป็นส่วนหนึ่งของแฟ้มสะสมผลงาน (Portfolio) เพื่อแสดงทักษะการพัฒนา Web Application ด้วย Laravel Framework และการออกแบบ Business Logic สำหรับระบบจัดการฐานข้อมูล
