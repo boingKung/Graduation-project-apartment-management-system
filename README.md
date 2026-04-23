@@ -35,7 +35,6 @@
 |:---:|:---:|
 | ![Dashboard](screenshots/dashboard_income.png) | ![Tenant](screenshots/manage_room.png) |
 | หน้า line oa | หน้าผู้เช่า (Tenant Page) |
-|:---:|:---:|
 | ![Dashboard](screenshots/line_oa.png) | ![Tenant](screenshots/tenant_web.jpg) |
 
 ## การติดตั้งและทดสอบรัน (Installation)
