@@ -1,0 +1,10 @@
+{
+    "sarabun-regular": {
+        "normal": "\/var\/www\/apartment\/storage\/fonts\/sarabun_regular_normal_c564ba79b74cd2191ed42d6f12033e6c",
+        "bold": "sarabun_regular_bold_1dae2cecdbf45d66c3ef42db2aef5d96"
+    },
+    "thsarabunnew": {
+        "normal": "\/var\/www\/apartment\/storage\/fonts\/thsarabunnew_normal_0de06dd657a9b70965f843018706e1c7",
+        "bold": "thsarabunnew_bold_6ba806811cf27f1346505fd15d572693"
+    }
+}

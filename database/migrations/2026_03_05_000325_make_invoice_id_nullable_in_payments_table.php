@@ -1,0 +1,30 @@
+<?php
+
+use Illuminate\Database\Migrations\Migration;
+use Illuminate\Database\Schema\Blueprint;
+use Illuminate\Support\Facades\Schema;
+
+return new class extends Migration
+{
+    /**
+     * Run the migrations.
+     */
+    public function up(): void
+    {
+        Schema::table('payments', function (Blueprint $table) {
+            // เพิ่ม ->nullable()->change() เพื่ออนุญาตให้เก็บค่าว่างได้
+            $table->unsignedBigInteger('invoice_id')->nullable()->change();
+        });
+    }
+
+    /**
+     * Reverse the migrations.
+     */
+    public function down(): void
+    {
+        Schema::table('payments', function (Blueprint $table) {
+            // คืนค่ากลับเป็นห้ามว่าง (เผื่อกรณี Rollback)
+            $table->unsignedBigInteger('invoice_id')->nullable(false)->change();
+        });
+    }
+};
