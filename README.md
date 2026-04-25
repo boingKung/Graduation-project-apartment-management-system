@@ -67,4 +67,6 @@ LinkedIn: www.linkedin.com/in/thanakorn-srisawat-52131539b
 
 Email: boing100147@gmail.com
 
+Youtube: https://www.youtube.com/watch?v=juMePQiX2P4&t=694s 
+
 โปรเจกต์นี้เป็นส่วนหนึ่งของแฟ้มสะสมผลงาน (Portfolio) เพื่อแสดงทักษะการพัฒนา Web Application ด้วย Laravel Framework และการออกแบบ Business Logic สำหรับระบบจัดการฐานข้อมูล
